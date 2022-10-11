@@ -104,4 +104,4 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 </p>
 
 <!--[![@enzinovito's Holopin board](https://holopin.io/api/user/board?user=enzinovito)](https://holopin.io/@enzinovito)-->
-[![@enzinovito's Microsoft board](https://learn.microsoft.com/fr-fr/users/enzozampaglione-3454/achievements)](https:///learn.microsoft.com/@enzinovito)
+[![@enzinovito's Microsoft board](https://learn.microsoft.com/fr-fr/users/enzozampaglione-3454/achievements)](https://learn.microsoft.com/fr-fr/users/enzozampaglione-3454/achievements)

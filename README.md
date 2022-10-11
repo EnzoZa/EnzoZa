@@ -105,7 +105,7 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://EnzoZa.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<!-- <a href="https://EnzoZa.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
 	<a href="https://github.com/EnzoZa" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/enzo-zampaglione/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:zampaglione.enzo@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>

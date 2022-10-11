@@ -43,17 +43,17 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="AngularJS" src="https://img.shields.io/badge/-Angular-00979D?logo=Angular&logoColor=white"></a>
-    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-0078d7.svg?logo=laravel&logoColor=white"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-eb1e1e.svg?logo=laravel&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-%23013243.svg?logo=symfony&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-%2320232a.svg?logo=symfony&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%b50404.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%2300f.svg?logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%783a07.svg?logo=mariadb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -65,8 +65,9 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-820360.svg?logo=visual-studio&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-350582.svg?logo=xcode&logoColor=white"></a>
 </p>
 
 ## 📊 Github Stats

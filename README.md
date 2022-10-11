@@ -103,4 +103,5 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 	<a href="mailto:zampaglione.enzo@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@enzinovito's Holopin board](https://holopin.io/api/user/board?user=enzinovito)](https://holopin.io/@enzinovito)
+<!--[![@enzinovito's Holopin board](https://holopin.io/api/user/board?user=enzinovito)](https://holopin.io/@enzinovito)-->
+[![@enzinovito's Microsoft board](https://learn.microsoft.com/fr-fr/users/enzozampaglione-3454/achievements)](https:///learn.microsoft.com/@enzinovito)

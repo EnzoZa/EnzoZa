@@ -42,7 +42,7 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="AngularJS" src="https://img.shields.io/badge/-Angular-00979D?logo=Angular&logoColor=white"></a>
+    <a href="#"><img alt="AngularJS" src="https://img.shields.io/badge/-Angular-f00509?logo=Angular&logoColor=white"></a>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-eb1e1e.svg?logo=laravel&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-%2320232a.svg?logo=symfony&logoColor=white"></a>

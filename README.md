@@ -105,4 +105,3 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 </p>
 
 <!--[![@enzinovito's Holopin board](https://holopin.io/api/user/board?user=enzinovito)](https://holopin.io/@enzinovito)-->
-[Image des contributeurs GitHub] https://contrib.rocks/image?repo=EnzoZa/Your_GitHub_Repository_Name

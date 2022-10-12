@@ -39,14 +39,15 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift-%e8070e.svg?logo=swift&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
     <a href="#"><img alt="AngularJS" src="https://img.shields.io/badge/-Angular-f00509?logo=Angular&logoColor=white"></a>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-eb1e1e.svg?logo=laravel&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <!--<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>-->
     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-%2320232a.svg?logo=symfony&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%b50404.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>

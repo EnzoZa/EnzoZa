@@ -56,7 +56,7 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%0078d7.svg?logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%302E31.svg?logo=mariadb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools

@@ -10,7 +10,7 @@ Hi, I'm Enzo Zampaglione !
 </p>
 <hr/>
 <samp>
-I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️ and always always in a good mood.
+I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️ and always always in a good mood 😁.
 </samp>
 
 ## 🔥 Streak Stats
@@ -104,6 +104,10 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 	<a href="mailto:zampaglione.enzo@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
+## 🏆 Some Badges
 <!--[![@enzinovito's Holopin board](https://holopin.io/api/user/board?user=enzinovito)](https://holopin.io/@enzinovito)-->
 <!--<img src="https://github-profile-trophy.vercel.app/?username=EnzoZa&theme=juicyfresh&no-bg=true" />-->
 <a href="https://learn.microsoft.com/fr-fr/training/achievements/learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/generic-trophy.svg"/></a>
+<a href="https://learn.microsoft.com/fr-fr/training/achievements/learn.az-900-describe-cloud-concepts.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/az-900-describe-cloud-concepts.svg"/></a>
+
+

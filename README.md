@@ -109,5 +109,10 @@ I am time punctual👩‍🎓, dedicated🎯, high-energy level🤹‍♀️, ho
 <!--<img src="https://github-profile-trophy.vercel.app/?username=EnzoZa&theme=juicyfresh&no-bg=true" />-->
 <a href="https://learn.microsoft.com/fr-fr/training/achievements/learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/generic-trophy.svg" height="50px"/></a>
 <a href="https://learn.microsoft.com/fr-fr/training/achievements/learn.az-900-describe-cloud-concepts.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/az-900-describe-cloud-concepts.svg" height="50px"/></a>
-
+<a href="https://learn.microsoft.com/fr-fr/training/achievements/learn.plan-deploy.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/plan-deploy.svg" height="50px"/></a>
+<a href="https://learn.microsoft.com/fr-fr/training/achievements/learn-bizapps.ui-controls-canvas-app-powerapps.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/ui-controls-canvas-app-powerapps.svg" height="50px"/></a>
+<a href="https://learn.microsoft.com/fr-fr/training/achievements/learn-bizapps.design-accident-tracking-app-social.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/design-accident-tracking-app.svg" height="50px"/></a>
+<a href="https://learn.microsoft.com/fr-fr/training/achievements/learn-bizapps.work-power-platform-teams.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/work-power-platform-teams.svg" height="50px"/></a>
+<a href="https://learn.microsoft.com/fr-fr/training/achievements/learn-bizapps.create-expense-report-app-start-finish-social.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/create-expense-report-app-start-finish.svg" height="50px"/></a>
+<a href="https://learn.microsoft.com/fr-fr/training/achievements/learn-bizapps.advanced-data-options-and-connectors.trophy?username=EnzoZampaglione-3454"> <img src="https://learn.microsoft.com/learn/achievements/advanced-data-options-and-connectors.svg" height="50px"/></a>
 
